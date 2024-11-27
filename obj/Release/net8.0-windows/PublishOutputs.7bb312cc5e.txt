@@ -1,0 +1,5 @@
+C:\Users\wasee\Downloads\Calculator\Calculator.exe
+C:\Users\wasee\Downloads\Calculator\Calculator.dll
+C:\Users\wasee\Downloads\Calculator\Calculator.deps.json
+C:\Users\wasee\Downloads\Calculator\Calculator.runtimeconfig.json
+C:\Users\wasee\Downloads\Calculator\Calculator.pdb
